@@ -28,3 +28,4 @@ a*.txt
 
 gitignore.io에서 Python, Windows, venv 검색해서 해당 내용 복사 -> ignore파일에 붙여넣기
 
+새애로운내요오옹
